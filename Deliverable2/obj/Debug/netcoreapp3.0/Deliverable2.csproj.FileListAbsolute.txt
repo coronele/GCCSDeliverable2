@@ -1,0 +1,11 @@
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.0\Deliverable2.exe
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.0\Deliverable2.deps.json
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.0\Deliverable2.runtimeconfig.json
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.0\Deliverable2.runtimeconfig.dev.json
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.0\Deliverable2.dll
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.0\Deliverable2.pdb
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.0\Deliverable2.csprojAssemblyReference.cache
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.0\Deliverable2.AssemblyInfoInputs.cache
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.0\Deliverable2.AssemblyInfo.cs
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.0\Deliverable2.dll
+D:\Users\coronele\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.0\Deliverable2.pdb
